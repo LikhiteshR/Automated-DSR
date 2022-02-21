@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[============================================================================]]>
+    </line>
+    <line>
+      <![CDATA[DAILY STATUS REPORT OF TEST CASES]]>
+    </line>
+    <line>
+      <![CDATA[============================================================================]]>
+    </line>
+    <line>
+      <![CDATA[Number of test cases excecuted         : 16]]>
+    </line>
+    <line>
+      <![CDATA[Number of test cases passed          : 9]]>
+    </line>
+    <line>
+      <![CDATA[Number of test cases failed           : 7]]>
+    </line>
+    <line>
+      <![CDATA[Number of test cases to be executed      : 6]]>
+    </line>
+    <line>
+      <![CDATA[============================================================================]]>
+    </line>
+    <line>
+      <![CDATA[Total No of test cases               : 22]]>
+    </line>
+    <line>
+      <![CDATA[============================================================================]]>
+    </line>
+    <line>
+      <![CDATA[% of total test cases excecuted :73.0%]]>
+    </line>
+    <line>
+      <![CDATA[% of total test cases passed         :41.0%]]>
+    </line>
+    <line>
+      <![CDATA[% of total test cases failed :32.0%]]>
+    </line>
+    <line>
+      <![CDATA[% of total test cases To be Executed :27.0%]]>
+    </line>
+    <line>
+      <![CDATA[=============================================================================]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------THANK YOU------------------------------------- ]]>
+    </line>
+    <line>
+      <![CDATA[=============================================================================]]>
+    </line>
+    <line>
+      <![CDATA[============================================]]>
+    </line>
+    <line>
+      <![CDATA[DAILY STATUS REPORT OF DEFECTS]]>
+    </line>
+    <line>
+      <![CDATA[============================================]]>
+    </line>
+    <line>
+      <![CDATA[Number of critical defects found:3]]>
+    </line>
+    <line>
+      <![CDATA[Number of High defects found    :4]]>
+    </line>
+    <line>
+      <![CDATA[Number of Medium defects found  :2]]>
+    </line>
+    <line>
+      <![CDATA[Number of Low defects found     :6]]>
+    </line>
+    <line>
+      <![CDATA[Number of  defects Retested     :3]]>
+    </line>
+    <line>
+      <![CDATA[Number of  defects  Closed      :2]]>
+    </line>
+    <line>
+      <![CDATA[============================================]]>
+    </line>
+    <line>
+      <![CDATA[Total No of  Active Defects     :18]]>
+    </line>
+    <line>
+      <![CDATA[============================================]]>
+    </line>
+    <line>
+      <![CDATA[---------------THANK YOU-------------------- ]]>
+    </line>
+    <line>
+      <![CDATA[============================================]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1323" started-at="2021-07-12T06:20:26Z" finished-at="2021-07-12T06:20:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1323" started-at="2021-07-12T06:20:26Z" finished-at="2021-07-12T06:20:27Z">
+      <class name="utils.ExcelUtilsTest">
+        <test-method status="PASS" signature="getdata()[pri:0, instance:utils.ExcelUtilsTest@646be2c3]" name="getdata" duration-ms="1173" started-at="2021-07-12T06:20:26Z" finished-at="2021-07-12T06:20:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[============================================================================]]>
+            </line>
+            <line>
+              <![CDATA[DAILY STATUS REPORT OF TEST CASES]]>
+            </line>
+            <line>
+              <![CDATA[============================================================================]]>
+            </line>
+            <line>
+              <![CDATA[Number of test cases excecuted         : 16]]>
+            </line>
+            <line>
+              <![CDATA[Number of test cases passed          : 9]]>
+            </line>
+            <line>
+              <![CDATA[Number of test cases failed           : 7]]>
+            </line>
+            <line>
+              <![CDATA[Number of test cases to be executed      : 6]]>
+            </line>
+            <line>
+              <![CDATA[============================================================================]]>
+            </line>
+            <line>
+              <![CDATA[Total No of test cases               : 22]]>
+            </line>
+            <line>
+              <![CDATA[============================================================================]]>
+            </line>
+            <line>
+              <![CDATA[% of total test cases excecuted :73.0%]]>
+            </line>
+            <line>
+              <![CDATA[% of total test cases passed         :41.0%]]>
+            </line>
+            <line>
+              <![CDATA[% of total test cases failed :32.0%]]>
+            </line>
+            <line>
+              <![CDATA[% of total test cases To be Executed :27.0%]]>
+            </line>
+            <line>
+              <![CDATA[=============================================================================]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------THANK YOU------------------------------------- ]]>
+            </line>
+            <line>
+              <![CDATA[=============================================================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+      </class> <!-- utils.ExcelUtilsTest -->
+      <class name="utils.Defectstest">
+        <test-method status="PASS" signature="getdata()[pri:0, instance:utils.Defectstest@797badd3]" name="getdata" duration-ms="106" started-at="2021-07-12T06:20:27Z" finished-at="2021-07-12T06:20:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[============================================]]>
+            </line>
+            <line>
+              <![CDATA[DAILY STATUS REPORT OF DEFECTS]]>
+            </line>
+            <line>
+              <![CDATA[============================================]]>
+            </line>
+            <line>
+              <![CDATA[Number of critical defects found:3]]>
+            </line>
+            <line>
+              <![CDATA[Number of High defects found    :4]]>
+            </line>
+            <line>
+              <![CDATA[Number of Medium defects found  :2]]>
+            </line>
+            <line>
+              <![CDATA[Number of Low defects found     :6]]>
+            </line>
+            <line>
+              <![CDATA[Number of  defects Retested     :3]]>
+            </line>
+            <line>
+              <![CDATA[Number of  defects  Closed      :2]]>
+            </line>
+            <line>
+              <![CDATA[============================================]]>
+            </line>
+            <line>
+              <![CDATA[Total No of  Active Defects     :18]]>
+            </line>
+            <line>
+              <![CDATA[============================================]]>
+            </line>
+            <line>
+              <![CDATA[---------------THANK YOU-------------------- ]]>
+            </line>
+            <line>
+              <![CDATA[============================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+      </class> <!-- utils.Defectstest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
